@@ -1,0 +1,9 @@
+button {
+  background-color: #48ff00; /* Primary color */
+  color: rgb(128, 227, 16);              /* Text color */
+  padding: 12px 24px;       /* Vertical and horizontal spacing */
+  border: none;
+  border-radius:6px;
+  cursor:pointer;
+  font-size:16px;
+}
